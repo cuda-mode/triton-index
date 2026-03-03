@@ -16,4 +16,6 @@
 | 12 | Batched Patchng | Rearranging | [link](kernels/0012_Patching.md) |
 | 13 | Block-Sparse Matrix Multiplication | Sparsity, Matmul | [link](kernels/0013_Sparse_Matmul.md) |
 | 14 | Fused Linear Cross Entropy | Linear Cross Entropy | [link](kernels/0014_Fused_Linear_Cross_Entropy.md) |
+| 15 | GPTQ Triton | Quant, Dequant, GPTQ | [link](kernels/0015_GPTQ_Triton.md) |
+| 16 | Flash Attention SM120 Gluon (TMA + MMAv2) | attention, SM120, Gluon, TMA, BF16, FP8 | [link](kernels/0016_Flash_Attention_SM120_Gluon.md) |
 | n+1 | your contribution | its tags |  |
