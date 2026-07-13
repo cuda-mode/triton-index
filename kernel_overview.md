@@ -16,4 +16,6 @@
 | 12 | Batched Patchng | Rearranging | [link](kernels/0012_Patching.md) |
 | 13 | Block-Sparse Matrix Multiplication | Sparsity, Matmul | [link](kernels/0013_Sparse_Matmul.md) |
 | 14 | Fused Linear Cross Entropy | Linear Cross Entropy | [link](kernels/0014_Fused_Linear_Cross_Entropy.md) |
+| 16 | torchembed — Fused RoPE (rotate-half & adjacent-pairs) | Embedding, Positional-Encoding, RoPE | [link](kernels/0016_torchembed_RoPE.md) |
+| 17 | torchnorm — Fused RMSNorm, FusedAddRMSNorm, LayerNorm | Normalization, RMSNorm, LayerNorm | [link](kernels/0017_torchnorm.md) |
 | n+1 | your contribution | its tags |  |
